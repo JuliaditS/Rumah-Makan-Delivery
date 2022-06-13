@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splashscreen.unity
+    guid: 8ff87bfa8873b9548b450624636c2f7c
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e318048bff297f545845d2fe9a5741d4
+  - enabled: 1
+    path: Assets/Scenes/Levels/1.LevelJakarta.unity
+    guid: ef219f056aa97bb43baa855301bf1a0d
+  - enabled: 1
+    path: Assets/Scenes/Levels/2.LevelJayapura.unity
+    guid: 252e930c629fff648a85d47eeca1f484
+  - enabled: 1
+    path: Assets/Scenes/Levels/3.LevelMakassar.unity
+    guid: eca20af0a6bd9344297e5f8344b813e2
+  - enabled: 1
+    path: Assets/Scenes/Levels/4.LevelSelor.unity
+    guid: 338155d57143b6f46a65c253eaef22c9
+  - enabled: 1
+    path: Assets/Scenes/Levels/5.LevelAceh.unity
+    guid: fbc27d64982a42c46bd5da359566c3c2
+  m_configObjects: {}

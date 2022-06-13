@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d8866f4551e2c4da05b1174c1a66ff, type: 3}
+  m_Name: Ketupat Kandangan
+  m_EditorClassIdentifier: 
+  nama: Ketupat Kandangan
+  sprite: {fileID: 21300000, guid: 9128821202a468747818340cfa9e2f53, type: 3}
+  description: '"Ketupat Kandangan" is a rice-based dish wrapped in a wrapper made
+    of woven young coconut leaves doused with coconut milk sauce mixed with traditional
+    spices such as cinnamon, nutmeg, cloves, and cardamom. The gravy is a bit thick
+    with a very distinctive savory taste.'
+  harga: 15000
+  id: Ketupat

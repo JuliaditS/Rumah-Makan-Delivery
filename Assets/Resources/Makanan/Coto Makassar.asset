@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d8866f4551e2c4da05b1174c1a66ff, type: 3}
+  m_Name: Coto Makassar
+  m_EditorClassIdentifier: 
+  nama: Coto Makassar
+  sprite: {fileID: 21300000, guid: 464796d75b048fd4fb25e298c021fa10, type: 3}
+  description: '"Coto Makassar" or "Coto Mangkasara" is Traditional food from Makassar,
+    South Sulawesi. This Food made from braised offal in a long time. '
+  harga: 25000
+  id: Coto
